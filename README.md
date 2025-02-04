@@ -41,6 +41,19 @@ The detail screen offers in-depth information about a selected location. By tapp
 
 https://github.com/user-attachments/assets/8188afa9-3df5-4802-bc79-ab0472a6832f
 
+## Bumble App
+
+**User Profile**
+The User Profile Screen offers a visually engaging way to explore potential matches. It displays user photos, personal information, hobbies, interests, and location, giving a comprehensive view of each individual. Users can seamlessly swipe to accept or reject profiles, making the matching experience intuitive and interactive. This screen is designed to enhance user engagement while ensuring a smooth and enjoyable browsing experience.
+
+https://github.com/user-attachments/assets/f514365b-8c5e-4283-a7fb-2131c2dffc51
+
+**Chat Screen**
+The Chat Screen provides a dynamic space for conversations. Users can view a list of online users and access their chat history, making it easy to continue existing conversations or start new ones instantly. The clean and user-friendly interface ensures effortless navigation, fostering real-time connections with matches.
+
+https://github.com/user-attachments/assets/17ee358c-a177-4bef-8936-8bb3406c68c8
+
+
 
 
 
