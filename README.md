@@ -84,10 +84,8 @@ The app features a simple and user-friendly authentication system built with Swi
 
 User data is securely stored using SwiftData, allowing easy retrieval and management of personal details. The Profile Screen provides options for users to sign out or delete their account, ensuring complete control over their data. With a clean and minimalistic UI, the app delivers a smooth and intuitive user experience.
 
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-04 at 12 27 49](https://github.com/user-attachments/assets/7922a9b3-0e6c-4e22-941f-d7f31d88345b)
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-04 at 12 26 57](https://github.com/user-attachments/assets/6975119a-588a-4236-92bb-35040b199874)
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-04 at 12 26 47](https://github.com/user-attachments/assets/00cff42f-6d5c-4df2-82c5-c8d82f6db904)
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-04 at 12 26 40](https://github.com/user-attachments/assets/752c4e01-fc9d-4cfe-8a46-eff7b32930e6)
+![Frame 7](https://github.com/user-attachments/assets/829a9950-2c22-43e8-a4cb-660f71b79dce)
+
 
 
 
