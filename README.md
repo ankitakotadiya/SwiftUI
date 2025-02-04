@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c097055f-13fe-4d4e-accc-592a0d6bf21c
 # Projects
 
 ## APOD - iOS
@@ -54,6 +56,38 @@ The Chat Screen provides a dynamic space for conversations. Users can view a lis
 https://github.com/user-attachments/assets/17ee358c-a177-4bef-8936-8bb3406c68c8
 
 
+## Netflix
+
+**Home Screen**
+The Home Screen provides a seamless browsing experience, allowing users to search for movies and explore content categorized by genre. With smooth scrolling animations, users can effortlessly navigate through trending movies, TV shows, and other curated collections. Clicking on TV Shows, Movies, or other options dynamically updates the content, making it easy to discover new favorites. Additionally, users can explore movies ranked by popularity, ensuring they never miss out on top-rated content.
+
+https://github.com/user-attachments/assets/d18e6a56-ff56-4221-91f4-ab3506621634
+
+**Detail Screen**
+The Detail Screen offers an immersive way to explore a selected movie or TV show. Users can access detailed information, including the cast, synopsis, and related content. With intuitive options to play, download, rate, or add movies to ‘My List’, the screen enhances user engagement. A curated list of similar movies is displayed with smooth animations, making content discovery both enjoyable and visually appealing.
+
+https://github.com/user-attachments/assets/c330d838-fe7e-4c06-94f2-b5c23df59c46
+
+
+## Spotify
+The **Home Screen** offers a personalized music discovery experience. Users can navigate through different tabs like All, Music, and Podcast to explore content tailored to their preferences. A frequently played section allows quick access to favorite tracks, while a categorized music library makes it easy to discover new songs and artists. With a clean and dynamic interface, users can seamlessly browse and dive into their favorite tunes.
+
+https://github.com/user-attachments/assets/527adb88-1e67-4e68-adb6-5e05840244e8
+
+The **Detail Screen** provides an in-depth experience for each song. Users can view detailed song information, with options to shuffle, play, download, share, and explore more settings. A curated suggestion list enables seamless navigation, allowing users to listen to recommended songs effortlessly. The smooth transitions and intuitive controls ensure an immersive and engaging listening experience.
+
+https://github.com/user-attachments/assets/01ddb469-cd1d-4b41-87d1-e1ac19d7df58
+
+
+## Login/Signup
+The app features a simple and user-friendly authentication system built with SwiftUI. Users can seamlessly sign up, log in, and manage their profiles, with navigation handled efficiently through a router-based common module. This ensures a smooth and modular navigation experience across the app.
+
+User data is securely stored using SwiftData, allowing easy retrieval and management of personal details. The Profile Screen provides options for users to sign out or delete their account, ensuring complete control over their data. With a clean and minimalistic UI, the app delivers a smooth and intuitive user experience.
+
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-04 at 12 27 49](https://github.com/user-attachments/assets/7922a9b3-0e6c-4e22-941f-d7f31d88345b)
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-04 at 12 26 57](https://github.com/user-attachments/assets/6975119a-588a-4236-92bb-35040b199874)
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-04 at 12 26 47](https://github.com/user-attachments/assets/00cff42f-6d5c-4df2-82c5-c8d82f6db904)
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-04 at 12 26 40](https://github.com/user-attachments/assets/752c4e01-fc9d-4cfe-8a46-eff7b32930e6)
 
 
 
