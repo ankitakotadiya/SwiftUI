@@ -30,6 +30,23 @@ https://github.com/user-attachments/assets/46585784-34a5-4d4c-a3c5-3b3ae16934a0
 With a focus on smooth animations, efficient performance, and a user-friendly interface, Dynamic Type Accessibility, iPad Support, Dark Mode Support, the APOD iOS App delivers an engaging experience for space enthusiasts and casual explorers alike. 🚀✨
 
 
+## MapApp
+**Home Screen**
+The home screen of the app provides an interactive map experience, displaying the user's current location along with custom pins marking various points of interest. Users can tap on a pin to smoothly navigate to that location with a subtle animation. A location suggestion list allows users to explore different places, and selecting a location from the list moves the map to that spot instantly. Additionally, a "Next" button at the bottom enables seamless navigation between multiple locations, making it easy to explore step by step.
+
+https://github.com/user-attachments/assets/be4426fd-af7f-4df0-8fb6-818d98a2b279
+
+**Detail Screen**
+The detail screen offers in-depth information about a selected location. By tapping the "Learn More" button, users can view additional images, read a detailed description, access a Wikipedia link for further exploration, and see the precise location on the map. The layout ensures a clean and informative experience, allowing users to engage with the content effortlessly. A "Dismiss" button provides a smooth way to close the detail screen and return to the main map view.
+
+https://github.com/user-attachments/assets/8188afa9-3df5-4802-bc79-ab0472a6832f
+
+
+
+
+
+
+
 
 
 
