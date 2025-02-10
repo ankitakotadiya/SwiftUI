@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/c097055f-13fe-4d4e-accc-592a0d6bf21c
 # Projects
 
 ## APOD - iOS
